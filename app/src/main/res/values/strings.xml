@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Parcial DAM</string>
+    <string name="main_activity_text_view">PARCIAL 1 - DAM 2020</string>
+    <string name="main_activity_button_guardar">GUARDAR ENTIDAD</string>
+    <string name="main_activity_button_mostrar_lista">MOSTRAR LISTA DE ENTIDADES GUARDADAS</string>
+</resources>
